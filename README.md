@@ -6,7 +6,7 @@
 
 🗂️ Realised multiple projects of AI and basic coding
 
-💻 Hackathon challenger (Check [LaCertif](https://github.com/EpsilonFO/LaCertif), latest one)
+💻 Hackathon challenger (Check [LaCertif](https://lacertif.app), latest one)
 
 🤑 Web3 enjoyer
 
