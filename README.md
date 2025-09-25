@@ -37,6 +37,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-3742FA?style=for-the-badge&logo=ultralytics&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-FFFFFF?style=for-the-badge&logo=openai&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
