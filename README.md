@@ -40,3 +40,7 @@
 ![Whisper](https://img.shields.io/badge/Whisper-FFFFFF?style=for-the-badge&logo=openai&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+### Note : 
+READMEs written by Claude, but always fully reviewed.
