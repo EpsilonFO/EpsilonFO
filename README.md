@@ -6,7 +6,7 @@
 
 🗂️ Realised multiple projects of AI and basic coding
 
-💻 Hackathon challenger (Check [Vers-AI-lles](https://github.com/EpsilonFO/Vers_AI_lles), latest one)
+💻 Hackathon challenger (Check [Korius](https://github.com/EpsilonFO/korius) or [Vers-AI-lles](https://github.com/EpsilonFO/Vers_AI_lles), latest ones)
 
 🤑 Web3 enjoyer
 
