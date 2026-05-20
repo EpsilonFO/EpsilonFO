@@ -8,11 +8,7 @@
 
 💻 Hackathon challenger (Check [Korius](https://github.com/EpsilonFO/korius), [wAIr-wolves](https://github.com/EpsilonFO/wAIr-wolves) or [Vers-AI-lles](https://github.com/EpsilonFO/Vers_AI_lles), latest ones)
 
-🤑 Web3 enjoyer
-
 🚀 Currently on an AI Engineer internship @ [Delos](https://github.com/Delos-Intelligence)
-
-📈 Co-founding AI SaaS startup [Patrialta](https://patrialta.fr)
 
 ## ⚔️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
