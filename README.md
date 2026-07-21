@@ -51,6 +51,3 @@
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/Clickhouse-FFFF00?style=for-the-badge&logo=clickhouse&logoColor=black)
 
----
-### Note : 
-READMEs written by Claude, but always fully reviewed.
