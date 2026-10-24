@@ -1,53 +1,31 @@
-# Bonjour 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="On Building LLM Agents and the Tooling Around Them. EpsilonFO, Delos and Monumia, Paris. AI Engineer building LLM agents and the tooling around them, with a soft spot for the math behind the models."/>
+</p>
 
-## About me
+<p><img src="assets/s-1-dark.svg" width="100%" alt="1 Selected Work"/></p>
 
-🧠 Passionate student of Mathematics and AI
+<p align="center">
+  <img src="assets/monumia.svg" width="49%" alt="Monumia: Finds restoration funding for historic monuments: LLMs, decision models and deterministic rules."/>
+  <a href="https://github.com/EpsilonFO/providall"><img src="assets/providall.svg" width="49%" alt="providall: One LLM call, any provider. Twin Python and TypeScript packages sharing one model registry."/></a>
+  <a href="https://github.com/EpsilonFO/idf-mcp"><img src="assets/idf-mcp.svg" width="49%" alt="idf-mcp: Real-time Paris transit inside Claude: departures, journey planning and traffic alerts."/></a>
+  <a href="https://github.com/EpsilonFO/agenda"><img src="assets/agenda.svg" width="49%" alt="agenda: A calendar driven by an LLM agent, with in-browser Whisper dictation and offline-first sync."/></a>
+  <a href="https://github.com/EpsilonFO/transcript-podcasts"><img src="assets/transcript-podcasts.svg" width="49%" alt="transcript-podcasts: Summarize and chat with documents, audio and podcasts. Voxtral, Mistral OCR, Ministral."/></a>
+  <a href="https://github.com/EpsilonFO/Normalizing-flows-implementation"><img src="assets/normalizing-flows.svg" width="49%" alt="Normalizing flows: NICE, RealNVP and Glow implemented from scratch, trained on MNIST and CIFAR-10."/></a>
+  <a href="https://github.com/EpsilonFO/blur"><img src="assets/blur.svg" width="49%" alt="blur: Face and voice anonymization for photos, videos and live camera. Fine-tuned YOLOv8."/></a>
+  <a href="https://github.com/EpsilonFO/ElectricDemandForecast"><img src="assets/electric-demand.svg" width="49%" alt="Electric demand: Electricity demand forecasting for 25 French regions, with neural architecture search."/></a>
+</p>
 
-🗂️ Realised multiple projects of AI and full-stack development
+<p><img src="assets/s-2-dark.svg" width="100%" alt="2 Hackathons"/><br/>
+<img src="assets/t1-cap-dark.svg" width="100%" alt="Table 1: Hackathon entries."/><br/>
+<img src="assets/t1-head-dark.svg" width="100%" alt="Project, description, code"/><br/>
+<a href="https://github.com/EpsilonFO/korius"><img src="assets/t1-korius-dark.svg" width="100%" alt="Korius: AI control tower for pharmacy buyers"/></a><br/>
+<a href="https://github.com/EpsilonFO/wAIr-wolves"><img src="assets/t1-wair-wolves-dark.svg" width="100%" alt="wAIr-wolves: Werewolf against eight LLM agents"/></a><br/>
+<a href="https://github.com/EpsilonFO/Vers-AI-lles"><img src="assets/t1-vers-ai-lles-dark.svg" width="100%" alt="Vers-AI-lles: Multi-agent guide to Versailles"/></a></p>
 
-💻 Hackathon challenger (Check [Korius](https://github.com/EpsilonFO/korius), [wAIr-wolves](https://github.com/EpsilonFO/wAIr-wolves) or [Vers-AI-lles](https://github.com/EpsilonFO/Vers_AI_lles), latest ones)
+<p><img src="assets/s-3-dark.svg" width="100%" alt="3 Toolkit"/><br/>
+<img src="assets/toolkit-dark.svg" width="100%" alt="Toolkit: Machine learning: PyTorch, scikit-learn, NumPy, pandas, Spark, Hugging Face; LLMs &amp; agents: Claude Code, MCP, Mistral AI, LangGraph, RAG, Tool calling; Backend &amp; infra: FastAPI, Supabase, PostgreSQL, Docker, GitHub Actions, Linux; Languages: Python, TypeScript, React, SQL, C, R"/></p>
 
-🚀 Currently on an AI Engineer internship @ [Delos](https://github.com/Delos-Intelligence)
-
-## ⚔️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-11181c?style=for-the-badge&logo=supabase&logoColor=34b27b)
-![LangChain](https://img.shields.io/badge/LangChain-1E88E5?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E34F26?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-262730?style=for-the-badge&logo=streamlit&logoColor=FF6C6C)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-3742FA?style=for-the-badge&logo=ultralytics&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![MistralAI](https://img.shields.io/badge/Mistralai-262730?style=for-the-badge&logo=mistralai&logoColor=FA500F)
-![Whisper](https://img.shields.io/badge/Whisper-FFFFFF?style=for-the-badge&logo=openai&logoColor=black) 
-![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/Clickhouse-FFFF00?style=for-the-badge&logo=clickhouse&logoColor=black)
-
+<p><img src="assets/s-ref-dark.svg" width="100%" alt="References"/><br/>
+<a href="https://www.linkedin.com/in/felix-ollivier"><img src="assets/ref-1-dark.svg" width="100%" alt="LinkedIn"/></a><br/>
+<a href="https://github.com/Delos-Intelligence"><img src="assets/ref-2-dark.svg" width="100%" alt="Delos"/></a><br/>
+<a href="https://github.com/suitenumerique/meet/pull/1316"><img src="assets/ref-3-dark.svg" width="100%" alt="La Suite Numérique"/></a></p>
