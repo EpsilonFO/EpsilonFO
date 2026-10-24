@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="On Building LLM Agents and the Tooling Around Them. EpsilonFO, Delos and Monumia, Paris. AI Engineer building LLM agents and the tooling around them, with a soft spot for the math behind the models."/>
+  <img src="assets/header.svg" width="100%" alt="Félix Ollivier (EpsilonFO), AI Engineer in Paris. Player card: LLM agents and the tooling around them. Currently AI Engineer at Delos and Co-founder &amp; CTO at Monumia."/>
 </p>
 
-<p><img src="assets/s-1-dark.svg" width="100%" alt="1 Selected Work"/></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/felix-ollivier"><img src="assets/btn-linkedin.svg" width="14.1%" alt="LinkedIn"/></a>
+  <a href="https://github.com/Delos-Intelligence"><img src="assets/btn-delos.svg" width="11.1%" alt="Delos"/></a>
+  <a href="https://github.com/suitenumerique/meet/pull/1316"><img src="assets/btn-la-suite-numerique.svg" width="24.3%" alt="La Suite Numérique"/></a>
+</p>
+
+<p align="center"><img src="assets/s-quests.svg" width="100%" alt="Quests: selected work"/></p>
 
 <p align="center">
   <img src="assets/monumia.svg" width="49%" alt="Monumia: Finds restoration funding for historic monuments: LLMs, decision models and deterministic rules."/>
@@ -15,17 +21,20 @@
   <a href="https://github.com/EpsilonFO/ElectricDemandForecast"><img src="assets/electric-demand.svg" width="49%" alt="Electric demand: Electricity demand forecasting for 25 French regions, with neural architecture search."/></a>
 </p>
 
-<p><img src="assets/s-2-dark.svg" width="100%" alt="2 Hackathons"/><br/>
-<img src="assets/t1-cap-dark.svg" width="100%" alt="Table 1: Hackathon entries."/><br/>
-<img src="assets/t1-head-dark.svg" width="100%" alt="Project, description, code"/><br/>
-<a href="https://github.com/EpsilonFO/korius"><img src="assets/t1-korius-dark.svg" width="100%" alt="Korius: AI control tower for pharmacy buyers"/></a><br/>
-<a href="https://github.com/EpsilonFO/wAIr-wolves"><img src="assets/t1-wair-wolves-dark.svg" width="100%" alt="wAIr-wolves: Werewolf against eight LLM agents"/></a><br/>
-<a href="https://github.com/EpsilonFO/Vers-AI-lles"><img src="assets/t1-vers-ai-lles-dark.svg" width="100%" alt="Vers-AI-lles: Multi-agent guide to Versailles"/></a></p>
+<p align="center"><img src="assets/s-hacks.svg" width="100%" alt="Side quests: hackathons"/></p>
 
-<p><img src="assets/s-3-dark.svg" width="100%" alt="3 Toolkit"/><br/>
-<img src="assets/toolkit-dark.svg" width="100%" alt="Toolkit: Machine learning: PyTorch, scikit-learn, NumPy, pandas, Spark, Hugging Face; LLMs &amp; agents: Claude Code, MCP, Mistral AI, LangGraph, RAG, Tool calling; Backend &amp; infra: FastAPI, Supabase, PostgreSQL, Docker, GitHub Actions, Linux; Languages: Python, TypeScript, React, SQL, C, R"/></p>
+<p align="center">
+  <a href="https://github.com/EpsilonFO/korius"><img src="assets/korius.svg" width="32.5%" alt="Korius: AI control tower for pharmacy buyers"/></a>
+  <a href="https://github.com/EpsilonFO/wAIr-wolves"><img src="assets/wair-wolves.svg" width="32.5%" alt="wAIr-wolves: Werewolf against eight LLM agents"/></a>
+  <a href="https://github.com/EpsilonFO/Vers-AI-lles"><img src="assets/vers-ai-lles.svg" width="32.5%" alt="Vers-AI-lles: Multi-agent guide to Versailles"/></a>
+</p>
 
-<p><img src="assets/s-ref-dark.svg" width="100%" alt="References"/><br/>
-<a href="https://www.linkedin.com/in/felix-ollivier"><img src="assets/ref-1-dark.svg" width="100%" alt="LinkedIn"/></a><br/>
-<a href="https://github.com/Delos-Intelligence"><img src="assets/ref-2-dark.svg" width="100%" alt="Delos"/></a><br/>
-<a href="https://github.com/suitenumerique/meet/pull/1316"><img src="assets/ref-3-dark.svg" width="100%" alt="La Suite Numérique"/></a></p>
+<p align="center"><img src="assets/s-inventory.svg" width="100%" alt="Inventory: toolkit"/></p>
+
+<p align="center">
+  <img src="assets/toolkit.svg" width="100%" alt="Toolkit: Machine learning: PyTorch, scikit-learn, NumPy, pandas, Spark, Hugging Face; LLMs &amp; agents: Claude Code, MCP, Mistral AI, LangGraph, RAG, Tool calling; Backend &amp; infra: FastAPI, Supabase, PostgreSQL, Docker, GitHub Actions, Linux; Languages: Python, TypeScript, React, SQL, C, R"/>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for playing. Félix Ollivier, Paris, 2026."/>
+</p>
