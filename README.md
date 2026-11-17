@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/felix-ollivier"><img src="assets/p6-btn-linkedin.svg" width="14.1%" alt="LinkedIn"/></a>
   <a href="https://delos.so"><img src="assets/p6-btn-delos.svg" width="11.1%" alt="Delos"/></a>
-  <a href="https://monumia.fr"><img src="assets/p6-btn-la-suite-numerique.svg" width="24.3%" alt="Monumia"/></a>
+  <a href="https://monumia.fr"><img src="assets/p6-btn-monumia.svg" width="13.1%" alt="Monumia"/></a>
 </p>
 
 <p align="center"><img src="assets/p6-s-quests.svg" width="100%" alt="Quests: selected work"/></p>
 
 <p align="center">
-  <a href="https://github.com/EpsilonFO/monumia"><img src="assets/p6-monumia.svg" width="49%" alt="Monumia: Finds restoration funding for historic monuments: LLMs, decision models and deterministic rules."/>
+  <a href="https://github.com/EpsilonFO/monumia"><img src="assets/p6-monumia.svg" width="49%" alt="Monumia: Finds restoration funding for historic monuments: LLMs, decision models and deterministic rules."/></a>
   <a href="https://github.com/EpsilonFO/providall"><img src="assets/p6-providall.svg" width="49%" alt="providall: One LLM call, any provider. Twin Python and TypeScript packages sharing one model registry."/></a>
   <a href="https://github.com/EpsilonFO/idf-mcp"><img src="assets/p6-idf-mcp.svg" width="49%" alt="idf-mcp: Real-time Paris transit inside Claude: departures, journey planning and traffic alerts."/></a>
   <a href="https://github.com/EpsilonFO/agenda"><img src="assets/p6-agenda.svg" width="49%" alt="agenda: A calendar driven by an LLM agent, with in-browser Whisper dictation and offline-first sync."/></a>
