@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felix-ollivier"><img src="assets/p6-btn-linkedin.svg" width="14.1%" alt="LinkedIn"/></a>
-  <a href="https://github.com/Delos-Intelligence"><img src="assets/p6-btn-delos.svg" width="11.1%" alt="Delos"/></a>
-  <a href="https://github.com/suitenumerique/meet/pull/1316"><img src="assets/p6-btn-la-suite-numerique.svg" width="24.3%" alt="La Suite Numérique"/></a>
+  <a href="https://delos.so"><img src="assets/p6-btn-delos.svg" width="11.1%" alt="Delos"/></a>
+  <a href="https://monumia.fr"><img src="assets/p6-btn-la-suite-numerique.svg" width="24.3%" alt="Monumia"/></a>
 </p>
 
 <p align="center"><img src="assets/p6-s-quests.svg" width="100%" alt="Quests: selected work"/></p>
